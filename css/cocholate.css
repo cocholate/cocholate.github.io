@@ -41,14 +41,10 @@ header {
   color: #EB5F96;
 }
 
-header hr.star-light {
-  border-color:#EB5F96
-}
-
 
 header hr.star-light:after, 
 header hr.star-primary:after,
-header hr.star-primary {
+header hr.star-light {
   color: #ff0;
   background: #EB5F96;
   border-color: #EB5F96;
@@ -72,4 +68,45 @@ header hr.star-primary {
 }
 
 
+#portfolio {
+  background: #F5EECB;  /* #F0E3B1; #fddad6;*/
+  color: #EB5F96;
+}
 
+#portfolio hr.star-primary, 
+#portfolio hr.star-light:after, 
+#portfolio hr.star-primary:after {
+  color: #EB5F96;
+  background: #fff;
+  border-color: #fff;
+}
+
+footer .footer-above {
+  background: #F5EECB;
+  color: #CAA168;
+}
+
+footer .footer-below {
+  background-color: #E96898;
+}
+
+
+#contact {
+  background: #fff;
+  color: #EB5F96;
+}
+
+
+#contact hr.star-light:after, 
+#contact hr.star-primary:after,
+#contact hr.star-primary,
+#contact hr.star-light {
+  color: #ff0;
+  background: #EB5F96;
+  border-color: #EB5F96;
+}
+
+
+.btn-outline {
+  color: #CAA168;
+}
