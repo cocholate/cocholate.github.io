@@ -69,7 +69,7 @@ header hr.star-light {
 
 
 #portfolio {
-  background: #F5EECB;  /* #F0E3B1; #fddad6;*/
+  background: #fff; /*#F5EECB;*/  /* #F0E3B1; #fddad6;*/
   color: #EB5F96;
 }
 
@@ -82,17 +82,17 @@ header hr.star-light {
 }
 
 footer .footer-above {
-  background: #F5EECB;
-  color: #CAA168;
+  background: #fff; /*#F5EECB;*/
+  color: #EB5F96;
 }
 
 footer .footer-below {
   background-color: #E96898;
 }
 
-
+/*
 #contact {
-  background: #fff;
+  background: #F5EECB;
   color: #EB5F96;
 }
 
@@ -106,7 +106,8 @@ footer .footer-below {
   border-color: #EB5F96;
 }
 
-
+*/
 .btn-outline {
-  color: #CAA168;
+  color: #EB5F96;
+  border-color: #EB5F96;
 }
