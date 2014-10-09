@@ -1,0 +1,75 @@
+/*
+
+   Rosados:
+
+   #ffaaab; #ffccce;
+
+ */
+
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: 0;
+  color: #EB5F96;
+}
+
+.navbar a:hover {
+  background-color: #dbb279 !important;
+  color: #fff !important;
+}
+
+.navbar, .navbar-default .navbar-brand {
+  background: /*#CAA168;*/ #F5EECB;
+  color: #CAA168; /* #F5EECB;*/ /*#54321E;*/
+}
+
+.navbar .navbar-nav > li > a {
+  color: #CAA168;
+}
+
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:focus
+{
+  background-color: #CAA168;
+}
+
+header {
+  background: #fff;
+  color: #EB5F96;
+}
+
+header hr.star-light {
+  border-color:#EB5F96
+}
+
+
+header hr.star-light:after, 
+header hr.star-primary:after,
+header hr.star-primary {
+  color: #ff0;
+  background: #EB5F96;
+  border-color: #EB5F96;
+}
+
+.skills {
+  font-weight: bolder;
+}
+
+#about {
+  background: #EB5F96;  /* #F0E3B1; #fddad6;*/
+  color: #fff;
+}
+
+#about hr.star-primary, 
+#about hr.star-light:after, 
+#about hr.star-primary:after {
+  color: #EB5F96;
+  background: #fff;
+  border-color: #fff;
+}
+
+
+
