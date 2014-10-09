@@ -76,9 +76,9 @@ header hr.star-light {
 #portfolio hr.star-primary, 
 #portfolio hr.star-light:after, 
 #portfolio hr.star-primary:after {
-  color: #EB5F96;
-  background: #fff;
-  border-color: #fff;
+  color: #fff;
+  background: #EB5F96;
+  border-color: #EB5F96;
 }
 
 footer .footer-above {
@@ -90,9 +90,9 @@ footer .footer-below {
   background-color: #E96898;
 }
 
-/*
+
 #contact {
-  background: #F5EECB;
+  /*background: #F5EECB;*/
   color: #EB5F96;
 }
 
@@ -106,7 +106,7 @@ footer .footer-below {
   border-color: #EB5F96;
 }
 
-*/
+
 .btn-outline {
   color: #EB5F96;
   border-color: #EB5F96;
